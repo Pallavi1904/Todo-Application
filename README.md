@@ -46,6 +46,9 @@ Todo-Application/
 ```bash
 git clone https://github.com/Pallavi1904/Todo-Application.git
 cd Todo-Application
+```
+## ScreenShorts
+![App Screenshot](assests/Screenshot 2025-07-23133335.png)
 
 
 
