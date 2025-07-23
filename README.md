@@ -48,7 +48,11 @@ git clone https://github.com/Pallavi1904/Todo-Application.git
 cd Todo-Application
 ```
 ## ScreenShorts
-![App Screenshot](assests/Screenshot 2025-07-23133335.png)
+![App Screenshot](assests/ss.png)
+
+---
+## 📌 Final Notes
+This To-Do List App was built with simplicity and functionality in mind using PHP, MySQL, HTML, CSS, and JavaScript. It’s a great starting point for beginners to understand full-stack fundamentals.
 
 
 
